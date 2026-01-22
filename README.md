@@ -1,68 +1,54 @@
+<div align="center">
+  
 # 👋 Olá! Eu sou Augusto Costa
 
+**Analista de Dados | Python | SQL | ETL**
+
+<img align="right" alt="Data Analytics" height="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustocosta-17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocosta-17&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 🛠️ My Skills
+
+**Main Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Studying:**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-00599C?style=for-the-badge&logo=ai&logoColor=white)
+
+**Workstation Tools:**
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</div>
-
-## 🎓 Sobre Mim
-
-Estudante de **Análise de Dados** no **DevInHouse V4**, apaixonado por transformar dados em insights significativos.
-
-🎯 **Objetivo:** Construir um portfólio robusto.
-
 ---
 
-## �️ Stack Tecnológico
-
-```python
-stack = {
-    "linguagens": ["Python", "SQL"],
-    "bibliotecas": ["Pandas", "NumPy", "Seaborn"],
-    "databases": ["PostgreSQL"],
-    "ferramentas": ["Jupyter Notebook", "Git/GitHub", "Power BI"]
-}
-```
-
-**Conceitos:** ETL • EDA • Data Cleaning • Feature Engineering • Database Modeling
-
----
-
-## 🏆 Projeto em Destaque
-
-### 🏥 **Análise Healthcare Dataset**
-
-Análise completa de 55.000+ registros hospitalares com limpeza de dados, feature engineering e visualizações profissionais.
-
-**Stack:** `Python` `Pandas` `NumPy` `Seaborn`
-
-**[📂 Ver Projeto →](https://github.com/augustocosta-17/analise-de-dados-devinhouse/tree/main/modulo_01_programacao_e_modelagem_de_dados/Mini%20Projeto)**
-
----
-
-</div>
-
----
-
-## 📚 Atualmente Estudando
-
-- Pipeline ETL com PostgreSQL
-- SQL Avançado (JOINs, CTEs, Views)
-- Modelagem de Dados
-
----
-
-## 📫 Contato
+## 📫 Contacts
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustoccostamg@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/augustocosta-17)
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustoccostamg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-c%C3%A9sar-da-costa-768516218)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=augustocosta-17&color=blue&style=flat-square)
 
@@ -71,7 +57,7 @@ Análise completa de 55.000+ registros hospitalares com limpeza de dados, featur
 ---
 
 <div align="center">
-
+  
 ### 🚀 "Transformando dados em decisões inteligentes"
 
-*💼 Aberto a oportunidades de estágio e primeira posição como Analista de Dados Jr*
+</div>
