@@ -2,19 +2,10 @@
   
 # 👋 Olá! Eu sou Augusto Costa
 
-**Analista de Dados | Python | SQL | ETL**
+**Python | SQL | Streamlit**
 
-<img align="right" alt="Data Analytics" height="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Data Analytics" height="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustocosta-17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocosta-17&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
@@ -33,7 +24,6 @@
 **Studying:**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-00599C?style=for-the-badge&logo=ai&logoColor=white)
 
 **Workstation Tools:**
