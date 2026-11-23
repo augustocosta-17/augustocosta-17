@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Augusto Costa
 
-**Agentes de IA · Automação (RPA) · Desenvolvimento Full-stack · Dados**
+**Agentes de IA · Automação (RPA) · Desenvolvimento Full-stack**
 
 <img align="center" alt="Data Analytics" height="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -62,18 +62,6 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
-**Dados:**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-🗄️ Data Lakes &nbsp;|&nbsp; 🏢 Data Warehouses (GCP) &nbsp;|&nbsp; ☁️ BigQuery
-
 **Integrações:**
 
 WhatsApp &nbsp;|&nbsp; Instagram &nbsp;|&nbsp; Pix &nbsp;|&nbsp; Notificações push
@@ -102,6 +90,6 @@ WhatsApp &nbsp;|&nbsp; Instagram &nbsp;|&nbsp; Pix &nbsp;|&nbsp; Notificações 
 
 <div align="center">
 
-### 🚀 "Automatizando processos e transformando dados em decisões inteligentes"
+### 🚀 "Automatizando processos e construindo soluções inteligentes"
 
 </div>
